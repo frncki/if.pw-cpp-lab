@@ -1,0 +1,60 @@
+Imie: Franek
+Losowano z zakresu: 0 - 50
+Liczba prob: 7
+
+Imie: Franek3000
+Losowano z zakresu: 2 - 12
+Liczba prob: 1
+
+Imie: Franek
+Losowano z zakresu: 0 - 15
+Liczba prob: 2
+
+Imie: franmek
+Losowano z zakresu: 0 - 13
+Liczba prob: 8
+
+Imie: Franek
+Losowano z zakresu: 0 - 14
+Liczba prob: 4
+
+Imie: Franej
+Losowano z zakresu: 3 - 7
+Liczba prob: 4
+
+Imie: Franek
+Losowano z zakresu: 0 - 17
+Liczba prob: 4
+
+Imie: Franek
+Losowano z zakresu: 0 - 13
+Liczba prob: 0
+
+Imie: Franek
+Losowano z zakresu: 0 - 10
+Liczba prob: 5
+
+Imie: fa
+Losowano z zakresu: 0 - 13
+Liczba prob: 7
+
+Imie: Franek
+Losowano z zakresu: 4 - 15
+Liczba prob: 8
+
+Imie: Franek
+Losowano z zakresu: 5 - 23
+Liczba prob: 19
+
+Imie: Franek
+Losowano z zakresu: 5 - 10
+Liczba prob: 4
+
+Imie: Franek
+Losowano z zakresu: 6 - 17
+Liczba prob: 5
+
+Imie: dwa
+Losowano z zakresu: 2 - 5
+Liczba prob: 7
+

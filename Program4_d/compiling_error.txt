@@ -1,0 +1,25 @@
+/Users/juleswinnfield/Documents/Programowanie/C++/Labkowe/Program4/main.cpp:37:7: error: redefinition of 'm' with a different type: 'Rank [0]' vs 'Rank *'
+        Rank m[0];
+             ^
+/Users/juleswinnfield/Documents/Programowanie/C++/Labkowe/Program4/main.cpp:35:9: note: previous definition is here
+        Rank * m = new Rank[4];
+               ^
+/Users/juleswinnfield/Documents/Programowanie/C++/Labkowe/Program4/main.cpp:38:7: error: redefinition of 'm' with a different type: 'Rank [1]' vs 'Rank *'
+        Rank m[1](Dio);
+             ^
+/Users/juleswinnfield/Documents/Programowanie/C++/Labkowe/Program4/main.cpp:35:9: note: previous definition is here
+        Rank * m = new Rank[4];
+               ^
+/Users/juleswinnfield/Documents/Programowanie/C++/Labkowe/Program4/main.cpp:39:7: error: redefinition of 'm' with a different type: 'Rank [2]' vs 'Rank *'
+        Rank m[2](Grechuta);
+             ^
+/Users/juleswinnfield/Documents/Programowanie/C++/Labkowe/Program4/main.cpp:35:9: note: previous definition is here
+        Rank * m = new Rank[4];
+               ^
+/Users/juleswinnfield/Documents/Programowanie/C++/Labkowe/Program4/main.cpp:40:7: error: redefinition of 'm' with a different type: 'Rank [3]' vs 'Rank *'
+        Rank m[3](Podsiadlo);
+             ^
+/Users/juleswinnfield/Documents/Programowanie/C++/Labkowe/Program4/main.cpp:35:9: note: previous definition is here
+        Rank * m = new Rank[4];
+               ^
+4 errors generated.
