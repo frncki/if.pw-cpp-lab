@@ -1,0 +1,13 @@
+
+Neptunium
+ Z: 93 energia wiazania: 1.87628*c^2
+
+Protactinum
+ Z: 91 energia wiazania: 1.83918*c^2
+
+Thorium
+ Z: 90 energia wiazania: 1.84743*c^2
+
+Neptunium
+ Z: 93 energia wiazania: 1.87628*c^2
+
